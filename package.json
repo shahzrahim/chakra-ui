@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "boot",
   "private": true,
   "dependencies": {
     "@emotion/core": "10.0.10",
